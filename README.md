@@ -114,4 +114,9 @@ meteor add meteorhacks:npm
 
 Meteor is built on top of Node, and Node itself has countless packages available through NPM. To use these packages, the simplest method is to install the NPM package:
 
+##Twitter Bootstrap
+meteor add twbs:bootstrap
+
+While there are a lot of different packages for frontend work. Twitter Bootstrap's easiest to get started version is twbs:bootstrap
+
 twbs:bootstrap: Contains the Bootstrap framework. One of the most popular front-end frameworks for developing responsive, mobile first projects on the web.
