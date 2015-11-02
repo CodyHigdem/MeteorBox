@@ -120,3 +120,14 @@ meteor add twbs:bootstrap
 While there are a lot of different packages for frontend work. Twitter Bootstrap's easiest to get started version is twbs:bootstrap
 
 twbs:bootstrap: Contains the Bootstrap framework. One of the most popular front-end frameworks for developing responsive, mobile first projects on the web.
+
+##Roles
+meteor add alanning:roles
+
+#Removed Packages
+
+##Autopublish
+Removing this means you'll have to setup permissions
+
+##Insecure
+Remove the all writes capability
