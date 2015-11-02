@@ -2,6 +2,7 @@
 A starter for MeteorJS
 
 # Folder Structure
+Files are loaded alphabetically from A-Z with main being loaded last. 
 
 ##Client
 
@@ -18,3 +19,5 @@ Permissions.js
 ###Public
 
 ###Server
+fixtures.js
+publications.js
