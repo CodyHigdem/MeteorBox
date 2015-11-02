@@ -102,5 +102,16 @@ other options
 	    top: 'auto', // Top position relative to parent in px
 	    left: 'auto' // Left position relative to parent in px
 	};
+http://stackoverflow.com/questions/22778259/load-spinner-while-loading/22778504#22778504
+
+##Moment
+meteor add mrt:moment
+
+Moment.js makes it easy to parse, validate, manipulate, and display dates in JavaScript, and installing the Moment package for Meteor is the quickest way to get started.
+
+##NPM
+meteor add meteorhacks:npm
+
+Meteor is built on top of Node, and Node itself has countless packages available through NPM. To use these packages, the simplest method is to install the NPM package:
 
 twbs:bootstrap: Contains the Bootstrap framework. One of the most popular front-end frameworks for developing responsive, mobile first projects on the web.
