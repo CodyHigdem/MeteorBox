@@ -3,18 +3,18 @@ A starter for MeteorJS
 
 # Folder Structure
 
-	##Client
+##Client
 
-	###Compatibility
+###Compatibility
 
-	###Stylesheets
-	###Views
+###Stylesheets
+###Views
 
-	##Lib
-	###Collections
-	Routes.js
-	Permissions.js
+##Lib
+###Collections
+Routes.js
+Permissions.js
 
-	###Public
+###Public
 
-	###Server
+###Server
